@@ -1,11 +1,11 @@
 {
 	"expo": {
-		"name": "mobile_movie_app",
-		"slug": "mobile_movie_app",
+		"name": "MovieFlix",
+		"slug": "MovieFlix",
 		"version": "1.0.0",
 		"orientation": "portrait",
 		"icon": "./assets/images/icon.png",
-		"scheme": "movies",
+		"scheme": "NextFlix",
 		"userInterfaceStyle": "automatic",
 		"newArchEnabled": true,
 		"ios": {
